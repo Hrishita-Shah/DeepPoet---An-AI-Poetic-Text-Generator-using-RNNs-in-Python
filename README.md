@@ -8,6 +8,7 @@ DeepPoet is a Python script that uses Recurrent Neural Networks (RNNs) to genera
 ### Installation
 1. Clone the repository:
   git clone https://github.com/Hrishita-Shah/DeepPoet---An-AI-Poetic-Text-Generator-using-RNNs-in-Python.git
+
   cd DeepPoet
 
 ### Running in Google Colab
